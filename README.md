@@ -5,8 +5,8 @@ This api is public. Also used for FunBot.
 
 # 1 - Http request 
 
-You need to do a request on this url:
-https://nekobot.xyz/api/image?type=pussy
+You need to do a request on this url:<br>
+https://nekobot.xyz/api/image?type=pussy<br>
 (ex for a pussy picture) 
 
 # 2 - Pic types
